@@ -6,4 +6,6 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #mysql:latest
-mysql:5.7
+#mysql:5.7
+redis
+rocketmqinc/rocketmq
