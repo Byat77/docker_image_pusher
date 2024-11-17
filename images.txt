@@ -8,6 +8,6 @@
 #mysql:latest
 #mysql:5.7
 #redis:5.0
-rocketmqinc/rocketmq:4.4.0
-styletang/rocketmq-console-ng
-mongo
+#rocketmqinc/rocketmq:4.4.0
+#styletang/rocketmq-console-ng
+mongo:5.0
