@@ -10,4 +10,7 @@
 #redis:5.0
 #rocketmqinc/rocketmq:4.4.0
 #styletang/rocketmq-console-ng
-mongo:5.0
+#mongo:5.0
+nacos/nacos-server:1.1.4
+bladex/sentinel-dashboard
+seataio/seata-server
